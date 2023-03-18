@@ -20,7 +20,7 @@ To run the game locally, follow these steps:
   
     git clone https://github.com/pauubach5/tic-tac-toe.git
 
-2. Open the index.html file in your preferred web browser.
+2. Install the dependencies.
 
 3. Enjoy playing my Tic-Tac-Toe!
 
